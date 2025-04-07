@@ -3,6 +3,6 @@
 
 - 💻 **Linguagem:** C# (.NET)
 - 📦 **Projeto:** Console Application
-- 🧠 **Padrão de Projeto:** Proxy
+- 🧠 **Padrão de Projetos:** 
 - 🛠️ **IDE recomendada:** Visual Studio
 
